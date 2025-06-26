@@ -5,7 +5,7 @@
 
 
 
-#name: s.suamnth kumar
+#name: s.sumanth kumar
 
 
 
@@ -14,4 +14,4 @@
 
 
 
-#output:
+#output:![Image](https://github.com/user-attachments/assets/d690b74a-af7b-4f36-8aac-7b015c60603f)
